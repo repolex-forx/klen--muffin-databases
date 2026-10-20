@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-databases",
+  "versions": [
+    {
+      "commit": "51a09b28ddfadd722b0ca7128c85230255527650",
+      "tag": "0.6.2",
+      "parsed_at": "2026-10-20T21:38:45.522093+00:00"
+    }
+  ]
+}
