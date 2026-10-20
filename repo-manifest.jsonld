@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-databases/commit/51a09b28ddfadd722b0ca7128c85230255527650",
       "git:hexsha": "51a09b28ddfadd722b0ca7128c85230255527650",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.6.2"
     },
     {
